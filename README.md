@@ -1,5 +1,7 @@
 # **AI-Powered CAD Assistant - Comprehensive Documentation**  
 
+## Visit Our GitHub Repository to view the Code Implementation: [CADAssist](https://github.com/fromjyce/CADAssist)
+
 ## **1. Introduction**  
 The **AI-Powered CAD Assistant** is a web-based application that transforms natural language prompts into fully editable 3D models compatible with popular CAD software (e.g., Autodesk Fusion 360, SolidWorks). It leverages AI to interpret design intent, generate parametric models, and allow real-time modifications through conversational commands.  
 
